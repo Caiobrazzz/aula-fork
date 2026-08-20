@@ -1,0 +1,14 @@
+img {
+    width: 150px;
+    height: 150px;
+    padding: 6px;
+    margin: 4px;
+    align-items: center;
+}
+
+h1 {
+    font-size: 26px;
+    margin: 4px;
+    padding: 6px;
+    text-align: center;
+}
